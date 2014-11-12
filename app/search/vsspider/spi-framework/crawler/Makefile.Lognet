@@ -1,0 +1,71 @@
+WORKROOT=../../../../..
+ifeq ($(MAC), 64)
+  ULIB  = $(WORKROOT)/lib2-64
+  THIRD = $(WORKROOT)/third-64
+  USERFLAGS = -fPIC
+  BASEOBJ = receiver.o handler.o init.o util.o ipdict.o
+else
+  ULIB  = $(WORKROOT)/lib2
+  THIRD = $(WORKROOT)/third
+  USERFLAGS = -DKERNEL24
+  BASEOBJ = receiver.o handler.o init.o epoll.o util.o ipdict.o 
+endif
+
+DEFINES = -D_XOPEN_SOURE=500 -D_GNU_SOURCE -ftemplate-depth-128 -D__VERSION_ID__="\"crawler 1.0.0\"" \
+	-D_LOGNET
+
+PUBLIC=$(WORKROOT)/public
+
+GCC = g++
+
+CPPFLAGS = -g $(USERFLAGS) -finline-functions -Wall -Winline -pipe $(DEFINES)
+
+INCLUDES = -I$(ULIB)/ullib/include -I$(ULIB)/dict/include -I$(ULIB)/bsl/include/ \
+	-I$(PUBLIC)/mcpack/output/include -I$(PUBLIC)/nshead -I$(PUBLIC)/libspidns \
+	-I$(THIRD)/pcre/include -I$(PUBLIC)/urlparser 
+
+LDFLAGS = -L$(ULIB)/bsl/lib -lbsl -L$(PUBLIC)/mcpack/output/lib -lmcpack -L$(PUBLIC)/nshead \
+	-lnshead -L$(PUBLIC)/libspidns -lspidns -L$(PUBLIC)/urlparser -lnewurl -L$(ULIB)/ullib/lib -lullib\
+	-L$(ULIB)/dict/lib -luldict -L$(THIRD)/pcre/lib -lpcre -lm -lpthread -lz -lcrypto \
+	-L$(THIRD)/tcmalloc/lib -ltcmalloc 
+
+OUTPUT = crawler nullcrawler test mocker_pp filecrawler xclient shuffle_url
+
+all	: $(OUTPUT) 
+	if [ ! -d output ]; then mkdir output; fi
+	cp $(OUTPUT) crawler.conf crwlog.conf output
+	rm -f *.o
+
+%.o : %.cpp
+	$(GCC) $(CPPFLAGS) -c $< $(INCLUDES)
+
+crawler : crawler.o $(BASEOBJ)
+	$(GCC) -o $@ $^ $(INCLUDES) $(LDFLAGS) 
+
+filecrawler : filecrawler.o $(BASEOBJ)
+	$(GCC) -o $@ $^ $(INCLUDES) $(LDFLAGS) 
+
+nullcrawler : nullcrawler.o
+	$(GCC) -o $@ $^ $(INCLUDES) $(LDFLAGS) 
+
+test : test.o $(BASEOBJ)
+	$(GCC) -o $@ $^ $(INCLUDES) $(LDFLAGS) 
+
+mocker_pp : mocker_pp.o util.o 
+	$(GCC) -o $@ $^ $(INCLUDES) $(LDFLAGS) 
+
+xclient : xclient.o util.o
+	$(GCC) -o $@ $^ $(INCLUDES) $(LDFLAGS) 
+
+shuffle_url: shuffle_url.o util.o
+	$(GCC) -o $@ $^ $(INCLUDES) $(LDFLAGS) 
+
+epoll.o: epoll.c
+	gcc -c $< -o $@
+
+clean:
+	rm -f *.o $(OUTPUT)
+	rm -rf output
+
+tags : $(wildcard *.cpp *.c *.h)
+	ctags -R *.cpp *.h $(PUBLIC) $(WORKROOT)/libsrc/ullib

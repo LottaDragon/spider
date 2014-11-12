@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/lib2-64/!svn/ver/141/tags/dict/dict_3-1-5-0_PD_BL/include
+END
+ul_charset.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/lib2-64/!svn/ver/141/tags/dict/dict_3-1-5-0_PD_BL/include/ul_charset.h
+END
+ul_drdict.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/lib2-64/!svn/ver/141/tags/dict/dict_3-1-5-0_PD_BL/include/ul_drdict.h
+END
+ul_prime.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/lib2-64/!svn/ver/141/tags/dict/dict_3-1-5-0_PD_BL/include/ul_prime.h
+END
+ul_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/lib2-64/!svn/ver/141/tags/dict/dict_3-1-5-0_PD_BL/include/ul_util.h
+END
+ul_sign.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/lib2-64/!svn/ver/141/tags/dict/dict_3-1-5-0_PD_BL/include/ul_sign.h
+END
+ul_dict.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/lib2-64/!svn/ver/141/tags/dict/dict_3-1-5-0_PD_BL/include/ul_dict.h
+END
+ul_index.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/lib2-64/!svn/ver/141/tags/dict/dict_3-1-5-0_PD_BL/include/ul_index.h
+END

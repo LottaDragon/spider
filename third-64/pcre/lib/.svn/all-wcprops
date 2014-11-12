@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/third-64/!svn/ver/153/tags/pcre/pcre_7-7-0-0_PD_BL/lib
+END
+libpcre.a
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/third-64/!svn/ver/153/tags/pcre/pcre_7-7-0-0_PD_BL/lib/libpcre.a
+END
+libpcrecpp.a
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/third-64/!svn/ver/153/tags/pcre/pcre_7-7-0-0_PD_BL/lib/libpcrecpp.a
+END
+libpcreposix.a
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/third-64/!svn/ver/153/tags/pcre/pcre_7-7-0-0_PD_BL/lib/libpcreposix.a
+END
+libpcre.la
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/third-64/!svn/ver/153/tags/pcre/pcre_7-7-0-0_PD_BL/lib/libpcre.la
+END
+libpcrecpp.la
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/third-64/!svn/ver/153/tags/pcre/pcre_7-7-0-0_PD_BL/lib/libpcrecpp.la
+END
+libpcreposix.la
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/third-64/!svn/ver/153/tags/pcre/pcre_7-7-0-0_PD_BL/lib/libpcreposix.la
+END

@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/app/search/vsspider/!svn/ver/99/tags/spi-framework/public/public_1-0-0-2_PD_BL
+END
+nsAutoPtr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/app/search/vsspider/!svn/ver/99/tags/spi-framework/public/public_1-0-0-2_PD_BL/nsAutoPtr.cpp
+END
+misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/app/search/vsspider/!svn/ver/99/tags/spi-framework/public/public_1-0-0-2_PD_BL/misc.h
+END
+mcpack.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/app/search/vsspider/!svn/ver/99/tags/spi-framework/public/public_1-0-0-2_PD_BL/mcpack.h
+END
+common_func.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/app/search/vsspider/!svn/ver/99/tags/spi-framework/public/public_1-0-0-2_PD_BL/common_func.cpp
+END
+ep.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/app/search/vsspider/!svn/ver/99/tags/spi-framework/public/public_1-0-0-2_PD_BL/ep.c
+END
+ep.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/app/search/vsspider/!svn/ver/99/tags/spi-framework/public/public_1-0-0-2_PD_BL/ep.h
+END
+mkd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/app/search/vsspider/!svn/ver/99/tags/spi-framework/public/public_1-0-0-2_PD_BL/mkd.cpp
+END
+INTERFACE
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/app/search/vsspider/!svn/ver/99/tags/spi-framework/public/public_1-0-0-2_PD_BL/INTERFACE
+END
+serv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/app/search/vsspider/!svn/ver/99/tags/spi-framework/public/public_1-0-0-2_PD_BL/serv.cpp
+END
+pub_Config.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/app/search/vsspider/!svn/ver/99/tags/spi-framework/public/public_1-0-0-2_PD_BL/pub_Config.h
+END
+rewrite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/app/search/vsspider/!svn/ver/99/tags/spi-framework/public/public_1-0-0-2_PD_BL/rewrite.cpp
+END
+cooperate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/app/search/vsspider/!svn/ver/99/tags/spi-framework/public/public_1-0-0-2_PD_BL/cooperate.cpp
+END
+Makefile.env
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/app/search/vsspider/!svn/ver/99/tags/spi-framework/public/public_1-0-0-2_PD_BL/Makefile.env
+END
+misc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/app/search/vsspider/!svn/ver/99/tags/spi-framework/public/public_1-0-0-2_PD_BL/misc.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/app/search/vsspider/!svn/ver/99/tags/spi-framework/public/public_1-0-0-2_PD_BL/Makefile
+END
+sendpack.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/app/search/vsspider/!svn/ver/99/tags/spi-framework/public/public_1-0-0-2_PD_BL/sendpack.h
+END
+mcpack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/app/search/vsspider/!svn/ver/99/tags/spi-framework/public/public_1-0-0-2_PD_BL/mcpack.cpp
+END
+mmapfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/app/search/vsspider/!svn/ver/99/tags/spi-framework/public/public_1-0-0-2_PD_BL/mmapfile.h
+END
+nsAutoPtr.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/app/search/vsspider/!svn/ver/99/tags/spi-framework/public/public_1-0-0-2_PD_BL/nsAutoPtr.h
+END
+common_func.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/app/search/vsspider/!svn/ver/99/tags/spi-framework/public/public_1-0-0-2_PD_BL/common_func.h
+END
+pub_Config.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/app/search/vsspider/!svn/ver/99/tags/spi-framework/public/public_1-0-0-2_PD_BL/pub_Config.cpp
+END
+t_misc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/app/search/vsspider/!svn/ver/99/tags/spi-framework/public/public_1-0-0-2_PD_BL/t_misc.cpp
+END
+mkd.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/app/search/vsspider/!svn/ver/99/tags/spi-framework/public/public_1-0-0-2_PD_BL/mkd.h
+END
+t_autoptr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/app/search/vsspider/!svn/ver/99/tags/spi-framework/public/public_1-0-0-2_PD_BL/t_autoptr.cpp
+END
+vs-spider.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/app/search/vsspider/!svn/ver/99/tags/spi-framework/public/public_1-0-0-2_PD_BL/vs-spider.h
+END
+t_co.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/app/search/vsspider/!svn/ver/99/tags/spi-framework/public/public_1-0-0-2_PD_BL/t_co.cpp
+END
+serv.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/app/search/vsspider/!svn/ver/99/tags/spi-framework/public/public_1-0-0-2_PD_BL/serv.h
+END
+cooperate.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/app/search/vsspider/!svn/ver/99/tags/spi-framework/public/public_1-0-0-2_PD_BL/cooperate.h
+END
+rewrite.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/app/search/vsspider/!svn/ver/99/tags/spi-framework/public/public_1-0-0-2_PD_BL/rewrite.h
+END
+sendpack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/app/search/vsspider/!svn/ver/99/tags/spi-framework/public/public_1-0-0-2_PD_BL/sendpack.cpp
+END
+mmapfile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/app/search/vsspider/!svn/ver/99/tags/spi-framework/public/public_1-0-0-2_PD_BL/mmapfile.cpp
+END

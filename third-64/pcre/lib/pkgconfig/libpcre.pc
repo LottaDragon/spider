@@ -1,0 +1,12 @@
+# Package Information for pkg-config
+
+prefix=/home/scmpf/compiler_src/zhangfang_39574_linux64/thirdsrc/pcre/output
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libpcre
+Description: PCRE - Perl compatible regular expressions C library
+Version: 7.7
+Libs: -L${libdir} -lpcre
+Cflags: -I${includedir}

@@ -1,0 +1,12 @@
+关于libspidns
+~~~~~~~~
+用于查询ip和robots封禁
+
+使用方法
+~~~~~~
+        + 编译时头文件包含 spidns.h，链接 libspidns.a 即可。
+        + 具体的函数说明请参考 spidns.h 里的说明和注释。
+
+反馈建议
+~~~~~~
+有任何反馈及建议，请发送邮件到 spi-arch@baidu.com

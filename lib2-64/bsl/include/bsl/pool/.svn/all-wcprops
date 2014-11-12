@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/lib2-64/!svn/ver/66/tags/bsl/bsl_1-0-8-1_PD_BL/include/bsl/pool
+END
+bsl_pool.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/lib2-64/!svn/ver/66/tags/bsl/bsl_1-0-8-1_PD_BL/include/bsl/pool/bsl_pool.h
+END
+bsl_debugpool.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/lib2-64/!svn/ver/66/tags/bsl/bsl_1-0-8-1_PD_BL/include/bsl/pool/bsl_debugpool.h
+END
+bsl_xcompool.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/lib2-64/!svn/ver/66/tags/bsl/bsl_1-0-8-1_PD_BL/include/bsl/pool/bsl_xcompool.h
+END
+bsl_xmempool.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/lib2-64/!svn/ver/66/tags/bsl/bsl_1-0-8-1_PD_BL/include/bsl/pool/bsl_xmempool.h
+END
+bsl_cachedpool.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/lib2-64/!svn/ver/66/tags/bsl/bsl_1-0-8-1_PD_BL/include/bsl/pool/bsl_cachedpool.h
+END
+bsl_poolalloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/lib2-64/!svn/ver/66/tags/bsl/bsl_1-0-8-1_PD_BL/include/bsl/pool/bsl_poolalloc.h
+END

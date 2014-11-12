@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/third-64/!svn/ver/153/tags/pcre/pcre_7-7-0-0_PD_BL/bin
+END
+pcregrep
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/third-64/!svn/ver/153/tags/pcre/pcre_7-7-0-0_PD_BL/bin/pcregrep
+END
+pcretest
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/third-64/!svn/ver/153/tags/pcre/pcre_7-7-0-0_PD_BL/bin/pcretest
+END
+pcre-config
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/third-64/!svn/ver/153/tags/pcre/pcre_7-7-0-0_PD_BL/bin/pcre-config
+END

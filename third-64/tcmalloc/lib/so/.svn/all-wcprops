@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/third-64/!svn/ver/181/tags/tcmalloc/tcmalloc_0-98-0-1_PD_BL/lib/so
+END
+libtcmalloc.so
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/third-64/!svn/ver/181/tags/tcmalloc/tcmalloc_0-98-0-1_PD_BL/lib/so/libtcmalloc.so
+END
+libtcmalloc_minimal.so
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/third-64/!svn/ver/181/tags/tcmalloc/tcmalloc_0-98-0-1_PD_BL/lib/so/libtcmalloc_minimal.so
+END

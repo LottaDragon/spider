@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/app/search/vsspider/!svn/ver/62/tags/spi-framework/crawler/crawler_1-0-2-4_PD_BL
+END
+filecrawler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/app/search/vsspider/!svn/ver/62/tags/spi-framework/crawler/crawler_1-0-2-4_PD_BL/filecrawler.cpp
+END
+crawler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/app/search/vsspider/!svn/ver/62/tags/spi-framework/crawler/crawler_1-0-2-4_PD_BL/crawler.cpp
+END
+crwlog.conf
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/app/search/vsspider/!svn/ver/62/tags/spi-framework/crawler/crawler_1-0-2-4_PD_BL/crwlog.conf
+END
+crawler.conf
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/app/search/vsspider/!svn/ver/62/tags/spi-framework/crawler/crawler_1-0-2-4_PD_BL/crawler.conf
+END
+init.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/app/search/vsspider/!svn/ver/62/tags/spi-framework/crawler/crawler_1-0-2-4_PD_BL/init.cpp
+END
+block_queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/app/search/vsspider/!svn/ver/62/tags/spi-framework/crawler/crawler_1-0-2-4_PD_BL/block_queue.h
+END
+receiver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/app/search/vsspider/!svn/ver/62/tags/spi-framework/crawler/crawler_1-0-2-4_PD_BL/receiver.cpp
+END
+comlogsvrauthip
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/app/search/vsspider/!svn/ver/62/tags/spi-framework/crawler/crawler_1-0-2-4_PD_BL/comlogsvrauthip
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/app/search/vsspider/!svn/ver/62/tags/spi-framework/crawler/crawler_1-0-2-4_PD_BL/ChangeLog
+END
+xclient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/app/search/vsspider/!svn/ver/62/tags/spi-framework/crawler/crawler_1-0-2-4_PD_BL/xclient.cpp
+END
+init.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/app/search/vsspider/!svn/ver/62/tags/spi-framework/crawler/crawler_1-0-2-4_PD_BL/init.h
+END
+receiver.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/app/search/vsspider/!svn/ver/62/tags/spi-framework/crawler/crawler_1-0-2-4_PD_BL/receiver.h
+END
+epoll.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/app/search/vsspider/!svn/ver/62/tags/spi-framework/crawler/crawler_1-0-2-4_PD_BL/epoll.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/app/search/vsspider/!svn/ver/62/tags/spi-framework/crawler/crawler_1-0-2-4_PD_BL/README
+END
+ipdict.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/app/search/vsspider/!svn/ver/62/tags/spi-framework/crawler/crawler_1-0-2-4_PD_BL/ipdict.cpp
+END
+handler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/app/search/vsspider/!svn/ver/62/tags/spi-framework/crawler/crawler_1-0-2-4_PD_BL/handler.cpp
+END
+util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/app/search/vsspider/!svn/ver/62/tags/spi-framework/crawler/crawler_1-0-2-4_PD_BL/util.cpp
+END
+comlogsvr.conf
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/app/search/vsspider/!svn/ver/62/tags/spi-framework/crawler/crawler_1-0-2-4_PD_BL/comlogsvr.conf
+END
+shuffle_url.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/app/search/vsspider/!svn/ver/62/tags/spi-framework/crawler/crawler_1-0-2-4_PD_BL/shuffle_url.cpp
+END
+test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/app/search/vsspider/!svn/ver/62/tags/spi-framework/crawler/crawler_1-0-2-4_PD_BL/test.cpp
+END
+mocker_pp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/app/search/vsspider/!svn/ver/62/tags/spi-framework/crawler/crawler_1-0-2-4_PD_BL/mocker_pp.cpp
+END
+epoll.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/app/search/vsspider/!svn/ver/62/tags/spi-framework/crawler/crawler_1-0-2-4_PD_BL/epoll.h
+END
+ipdict.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/app/search/vsspider/!svn/ver/62/tags/spi-framework/crawler/crawler_1-0-2-4_PD_BL/ipdict.h
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/app/search/vsspider/!svn/ver/62/tags/spi-framework/crawler/crawler_1-0-2-4_PD_BL/util.h
+END
+handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/app/search/vsspider/!svn/ver/62/tags/spi-framework/crawler/crawler_1-0-2-4_PD_BL/handler.h
+END
+Makefile.Lognet
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/app/search/vsspider/!svn/ver/62/tags/spi-framework/crawler/crawler_1-0-2-4_PD_BL/Makefile.Lognet
+END
+nullcrawler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/app/search/vsspider/!svn/ver/62/tags/spi-framework/crawler/crawler_1-0-2-4_PD_BL/nullcrawler.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/app/search/vsspider/!svn/ver/62/tags/spi-framework/crawler/crawler_1-0-2-4_PD_BL/Makefile
+END

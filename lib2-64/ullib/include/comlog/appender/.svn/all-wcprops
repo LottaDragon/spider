@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/lib2-64/!svn/ver/433/tags/ullib/ullib_3-1-30-0_PD_BL/include/comlog/appender
+END
+asyncfileappender.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/lib2-64/!svn/ver/433/tags/ullib/ullib_3-1-30-0_PD_BL/include/comlog/appender/asyncfileappender.h
+END
+appender.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/lib2-64/!svn/ver/433/tags/ullib/ullib_3-1-30-0_PD_BL/include/comlog/appender/appender.h
+END
+fileappender.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/lib2-64/!svn/ver/433/tags/ullib/ullib_3-1-30-0_PD_BL/include/comlog/appender/fileappender.h
+END
+ttyappender.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/lib2-64/!svn/ver/433/tags/ullib/ullib_3-1-30-0_PD_BL/include/comlog/appender/ttyappender.h
+END
+ullogappender.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/lib2-64/!svn/ver/433/tags/ullib/ullib_3-1-30-0_PD_BL/include/comlog/appender/ullogappender.h
+END
+netappender.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/lib2-64/!svn/ver/433/tags/ullib/ullib_3-1-30-0_PD_BL/include/comlog/appender/netappender.h
+END
+appenderfactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/lib2-64/!svn/ver/433/tags/ullib/ullib_3-1-30-0_PD_BL/include/comlog/appender/appenderfactory.h
+END

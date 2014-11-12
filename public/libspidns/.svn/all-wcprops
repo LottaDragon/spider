@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/public/!svn/ver/1579/tags/libspidns/libspidns_1-0-1-2_PD_BL
+END
+spidns_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/public/!svn/ver/1579/tags/libspidns/libspidns_1-0-1-2_PD_BL/spidns_data.h
+END
+spidns_connection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/public/!svn/ver/1579/tags/libspidns/libspidns_1-0-1-2_PD_BL/spidns_connection.cpp
+END
+spidns.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/public/!svn/ver/1579/tags/libspidns/libspidns_1-0-1-2_PD_BL/spidns.cpp
+END
+spidns_connection.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/public/!svn/ver/1579/tags/libspidns/libspidns_1-0-1-2_PD_BL/spidns_connection.h
+END
+spidns.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/public/!svn/ver/1579/tags/libspidns/libspidns_1-0-1-2_PD_BL/spidns.h
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/public/!svn/ver/1579/tags/libspidns/libspidns_1-0-1-2_PD_BL/ChangeLog
+END
+spidns_robots.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/public/!svn/ver/1579/tags/libspidns/libspidns_1-0-1-2_PD_BL/spidns_robots.cpp
+END
+spidns_data.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/public/!svn/ver/1579/tags/libspidns/libspidns_1-0-1-2_PD_BL/spidns_data.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/public/!svn/ver/1579/tags/libspidns/libspidns_1-0-1-2_PD_BL/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/public/!svn/ver/1579/tags/libspidns/libspidns_1-0-1-2_PD_BL/README
+END
+spidns_robots.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/public/!svn/ver/1579/tags/libspidns/libspidns_1-0-1-2_PD_BL/spidns_robots.h
+END
