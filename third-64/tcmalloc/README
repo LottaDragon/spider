@@ -1,7 +1,0 @@
-来源: wget http://google-perftools.googlecode.com/files/google-perftools-0.98.tar.gz 
-MD5: be6d283bb6177f1febaefd3570f3366d 
-版本: google-perftools-0.98.tar.gz
-引入: 由com组引入
-软件的引入形式: 源码引入与二进制引入
-
-编译参数　: ./configure --enable-shared=no --enable-frame-pointers 
